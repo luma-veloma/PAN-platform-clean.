@@ -51,3 +51,23 @@ PAN-platform-clean/
 ├── requirements.txt    # Python dependencies
 ├── Dockerfile          # Optional: for containerized deploy
 └── README.md
+___
+🧪 Deployment Targets
+
+🔄 [x] Replit: Dev testing
+🚀 [x] Render: Production mode
+🧠 [ ] Docker: Local containerization
+🔒 [ ] Self-hosted: Future roadmap
+📌 Status
+
+“This is not a website. This is an operating system for regenerative business execution.”
+Version: v1.0-clean
+Deployment: In progress
+Status: 🔒 Private Alpha
+🧠 Author
+
+Asma @miraiasma
+Founder of PAN Systems | Architect of Veloma Framework
+www.panmena.dz (coming soon)
+
+___
