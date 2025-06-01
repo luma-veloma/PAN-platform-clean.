@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.env
+*.venv
+env/
+venv/
+
+# Replit
+.replit
+.replit.*
+
+# Flask
+instance/
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Git
+*.swp
+*.swo
+*.orig
+*.bak
